@@ -1,0 +1,3 @@
+[INFO] [03:51:27.034] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :D:\WorkSpace\IdeaProj\SpringDemo\springboot\.\config\sqlite3.db
+[INFO] [03:51:33.706] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :D:\WorkSpace\IdeaProj\SpringDemo\springboot\.\config\sqlite3.db
+[INFO] [03:51:33.708] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConfigHelper.loadGeneratorConfigs:182 --> sql: SELECT * FROM generator_config
